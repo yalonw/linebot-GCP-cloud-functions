@@ -1,0 +1,6 @@
+# Function dependencies, for example:
+# package>=version
+
+line-bot-sdk
+google-cloud-storage
+google-cloud-firestore
